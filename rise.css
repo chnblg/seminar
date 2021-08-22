@@ -1,0 +1,7 @@
+div.cell.selected {
+    border: none
+}
+
+div.cell.selected::before {
+    visibility: hidden
+}
